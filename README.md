@@ -2,12 +2,9 @@
 
 ### 📊 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
-I'm a Computer Science Engineering graduate / aspiring Data Analyst passionate about transforming raw data into meaningful insights and business decisions.
-
-I enjoy analyzing datasets, creating interactive dashboards, and solving real-world business problems using data.
+I'm a Computer Science Engineering graduate / aspiring Data Analyst passionate about transforming raw data into meaningful insights and business decisions. I enjoy analyzing datasets, creating interactive dashboards, and solving real-world business problems using data.
 
 ## 💻 Technical Skills
-
 - **Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy
 - **Visualization:** Power BI, Matplotlib
